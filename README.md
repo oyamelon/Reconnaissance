@@ -6,7 +6,7 @@
 付与されたアイテムを右クリックで使用出来ます。
 
 ## 設定
-`Reconnaissance\data\reconnaissance\settings.mcfunction`で変更出来ます。  
+`Reconnaissance\data\reconnaissance\functions\settings.mcfunction`で変更出来ます。  
 - Timelimit　スペクテイターモード状態にする時間（ティックを整数で指定）
 
 ## 注意点
