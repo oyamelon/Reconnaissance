@@ -1,0 +1,1 @@
+kill @e[team=recon_collision]

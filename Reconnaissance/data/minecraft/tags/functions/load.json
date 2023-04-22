@@ -1,0 +1,8 @@
+{
+    "values": [
+    "reconnaissance:teamcreate",
+    "reconnaissance:scoreboardcreate",
+    "reconnaissance:settings",
+    "reconnaissance:dummy_spawn_kill"
+    ]
+}
